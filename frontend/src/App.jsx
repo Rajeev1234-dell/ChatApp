@@ -2,7 +2,7 @@ import { useState } from "react";
 import "./App.css";
 
 function App() {
-  return <h1 className="text-center text-2xl">Hello</h1>;
+  return <button className="btn btn-secondary">Secondary</button>;
 }
 
 export default App;
